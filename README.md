@@ -1,5 +1,6 @@
 # Ethers.js by Example
 Learn how to use ethers.js from these examples
+Learn and tested
 
 ## Technology Stack & Tools
 
