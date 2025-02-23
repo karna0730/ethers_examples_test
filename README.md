@@ -2,6 +2,11 @@
 Learn how to use ethers.js from these examples
 Learn and tested
 
+Infura Details
+https://mainnet.infura.io/v3/5acd5dc911e8449d8b1719ab327ff65f
+
+https://sepolia.infura.io/v3/5acd5dc911e8449d8b1719ab327ff65f
+
 ## Technology Stack & Tools
 
 - Javascript (Writing scripts)
